@@ -1,3 +1,3 @@
 # basc_SQL_practice
-Not much to add here as this is not a comprehensive project with a purpose or setup etc.
+This is not a comprehensive project with a purpose or setup etc. It fulfills no purposes other than education.
 Just learning the ropes of SQL, by creating and modifying a table according to the Task 46 challenge of HyperionDev
